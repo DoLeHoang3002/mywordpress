@@ -10,7 +10,7 @@
 <channel>
 	<title>501210616 &#8211; BeBakery</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/501210616/feed/" rel="self" type="application/rss+xml" />
-	<link>http://dolehoang3002.github.io/mywordpress</link>
+	<link>https://dolehoang3002.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Sep 2022 16:31:08 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>About BeBakery</title>
-		<link>http://dolehoang3002.github.io/mywordpress/2022/08/31/elementor-99/</link>
+		<link>https://dolehoang3002.github.io/mywordpress/2022/08/31/elementor-99/</link>
 		
 		<dc:creator><![CDATA[501210616]]></dc:creator>
 		<pubDate>Wed, 31 Aug 2022 09:51:22 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">http://dolehoang3002.github.io/mywordpress/?p=99</guid>
+		<guid isPermaLink="false">https://dolehoang3002.github.io/mywordpress/?p=99</guid>
 
 					<description><![CDATA[About BeBakery Sed torquent mauris vitae erat Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare [&#8230;]]]></description>
 		

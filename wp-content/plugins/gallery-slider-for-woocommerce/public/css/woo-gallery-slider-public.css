@@ -534,7 +534,7 @@ div.product div.product-description {
   position: absolute;
   z-index: -99;
   background-color: #fff;
-  background-image: url("http://dolehoang3002.github.io/mywordpress/wp-content/plugins/gallery-slider-for-woocommerce/public/images/loader-white1.gif");
+  background-image: url("https://dolehoang3002.github.io/mywordpress/wp-content/plugins/gallery-slider-for-woocommerce/public/images/loader-white1.gif");
   background-repeat: no-repeat;
   background-position: center center;
   opacity: 0;
