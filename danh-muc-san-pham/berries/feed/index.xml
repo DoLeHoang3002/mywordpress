@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Berries &#8211; BeBakery</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/berries/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dolehoang3002.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Thu, 06 Oct 2022 05:41:26 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Boston Cream Pie</title>
+		<link>http://dolehoang3002.github.io/mywordpress/san-pham/boston-cream-pie/</link>
+					<comments>http://dolehoang3002.github.io/mywordpress/san-pham/boston-cream-pie/#respond</comments>
+		
+		<dc:creator><![CDATA[501210616]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 14:41:33 +0000</pubDate>
+				<guid isPermaLink="false">http://dolehoang3002.github.io/mywordpress/?post_type=product&#038;p=1542</guid>
+
+					<description><![CDATA[INGREDIENTS:
+
+_ 45 grams plain flour.
+
+_ 1 teaspoon cocoa powder.
+
+_ 1 egg. _ 10 grams melted butter.
+
+_ 100 millilitres milk.
+
+PREPARATION:
+
+Pie gummi bears jujubes cake lemon drops gummi bears croissant macaroon pie. Fruitcake tootsie roll chocolate cake. Carrot cake cake bear claw jujubes topping cake apple pie. Jujubes…]]></description>
+		
+					<wfw:commentRss>http://dolehoang3002.github.io/mywordpress/san-pham/boston-cream-pie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Super Decadent Chocolate</title>
+		<link>http://dolehoang3002.github.io/mywordpress/san-pham/super-decadent-chocolate/</link>
+					<comments>http://dolehoang3002.github.io/mywordpress/san-pham/super-decadent-chocolate/#respond</comments>
+		
+		<dc:creator><![CDATA[501210616]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 08:02:21 +0000</pubDate>
+				<guid isPermaLink="false">http://dolehoang3002.github.io/mywordpress/?post_type=product&#038;p=1469</guid>
+
+					<description><![CDATA[INGREDIENTS:
+
+_ 45 grams plain flour.
+
+_ 1 teaspoon cocoa powder.
+
+_ 1 egg. _ 10 grams melted butter.
+
+_ 100 millilitres milk.
+
+PREPARATION:
+
+Pie gummi bears jujubes cake lemon drops gummi bears croissant macaroon pie. Fruitcake tootsie roll chocolate cake. Carrot cake cake bear claw jujubes topping cake apple pie. Jujubes…]]></description>
+		
+					<wfw:commentRss>http://dolehoang3002.github.io/mywordpress/san-pham/super-decadent-chocolate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
