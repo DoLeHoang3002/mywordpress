@@ -2,10 +2,29 @@
     color: #CCC;
     font-family: FontAwesome;
 }/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-3a5effe */.elementor-977 .elementor-element.elementor-element-3a5effe a:hover {
+    box-shadow: 0 6px 15px 0 #24242626;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-83ff572 */.elementor-977 .elementor-element.elementor-element-83ff572 a:hover {
+    box-shadow: 0 6px 15px 0 #24242626;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-653f0a1 */.elementor-977 .elementor-element.elementor-element-653f0a1 a:hover {
+    box-shadow: 0 6px 15px 0 #24242626;
+}/* End custom CSS */
 /* Start custom CSS for form, class: .elementor-element-ab85153 */.elementor-977 .elementor-element.elementor-element-ab85153 textarea, input{
     box-shadow: none !important;
     padding: 0 !important;
     min-height: 30px !important;
+}
+.elementor-977 .elementor-element.elementor-element-ab85153 button:hover {
+    box-shadow: 0 6px 15px 0 #24242626;
+    
+}
+.elementor-977 .elementor-element.elementor-element-ab85153 button i {
+    transition: all 0.4s ease;
+}
+.elementor-977 .elementor-element.elementor-element-ab85153 button:hover i {
+    transform: translateX(10px);
 }/* End custom CSS */
 /* Start custom CSS for column, class: .elementor-element-9fdaf5b */.elementor-977 .elementor-element.elementor-element-9fdaf5b {
     top: 0;
